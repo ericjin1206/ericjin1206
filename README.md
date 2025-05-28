@@ -8,7 +8,6 @@ This GitHub serves as a collection of my technical experience, with two highligh
 
 - 🎨 **[Nextjs-Web-Design](https://github.com/ericjin1206/Nextjs-Web-Design)**: A web development project built with Next.js and TypeScript, demonstrating my interest in full-stack development and scalable user experiences.
 
-📊 [My Tableau visualizations](https://public.tableau.com/app/profile/zhengyao.jin/vizzes)  
-💼 [Connect with me on LinkedIn](https://linkedin.com/in/zhengyao-jin-2148b7204)
+📊 [My Tableau visualizations](https://public.tableau.com/app/profile/zhengyao.jin/vizzes)       💼 [Connect with me on LinkedIn](https://linkedin.com/in/zhengyao-jin-2148b7204)
 📜 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/40515f20-eec1-4d68-bc58-7434ada8da23/public_url) | Pursuing: AWS Certified Solutions Architect – Associate
 
