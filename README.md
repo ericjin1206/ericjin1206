@@ -6,7 +6,7 @@ This GitHub serves as a collection of my technical experience, with two highligh
 
 - 🔧 **[Past-Projects](https://github.com/ericjin1206/Past-Projects)**: A comprehensive showcase of my previous work across machine learning, experimentation, optimization, data structures, and automation.
 
-- 🎨 **[Nextjs-Web-Design](https://ericjinzy.com)**: My Personal AI-Powered Website
+- 🎨 **[My Personal AI-Powered Website](https://ericjinzy.com)**: My Personal AI-Powered Website
   
   
 📊 [My Tableau visualizations](https://public.tableau.com/app/profile/zhengyao.jin/vizzes)       
